@@ -54,6 +54,16 @@ var gApp = angular.module('gApp', []);
 		];
 		
 		$scope.dataSource = [
+            {
+			 path: "portfolio/",
+			 url : "team/DungeonStory.pdf", 
+			 title: "Team Game",
+			 name: "Impression",
+			 img: "team/DungeonSotry1.gif",
+			 img2: "team/DungeonSotry2.gif",
+			 type : true, 
+			 contents: "졸작으로 4명에서 만든 안드로이드 게임입니다. 게임을 좋아하는 마음만으로 만들었는데 실제 게임제작은 개발적인 요소와 함께 많은 디자인 요소들이 들어가는것을 깨달았습니다. 마지막까지 몬스터 디자인으로 인해 스테이지는 5가지 이하로 구성되어 있지만 플레이가 가능하도록 하였고 게임제작시 고려해야할 여러가지 사항들을 직접 체감하게 되었습니다."
+			},            
 			{
 			 path: "portfolio/",
 			 url : "team/[team]movie.pdf", 
