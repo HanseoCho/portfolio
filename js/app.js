@@ -87,7 +87,7 @@ var gApp = angular.module('gApp', []);
 			 url : "personal/project2_.pdf", 
 			 title: "Personal",
 			 name: "Impression",
-			 img: "personal/Portfoliop2-1.GIF",
+			 img: "personal/Portfoliop2-1.gif",
 			 img2: "personal/Portfoliop2-2.gif",
 			 type : false, 
 			 contents: "웹쇼핑몰과 빅데이터를 결합해서 REST API구조로 만든 개인 프로젝트 입니다. 어떻게 만들지 실제 웹 쇼핑몰을 분석하면서 많은 고민을 하면서 만들었습니다. 1달간의 시간동안 만들었는데 UI부분이 시간을 너무 많이 잡아먹어서 기능적인 면은 구현할수 있는 시간은 7일도 안되었습니다. DB를 통해 게시판구조가 변동적으로 만들고 중간에 기존 만든 UI틀이 잘못되서 UI를 다시 만드는데 시간을 잡아먹기도 했습니다. 그래도 프로젝트를 마무리하면서 웹 쇼핑몰을 어떻게 만들어야할지에 대해서 알게 되었고, 결제와 보안요소를 보완해서 완전한 쇼핑몰을 만들어 보고 싶은 생각이 들었습니다."
